@@ -8,9 +8,8 @@ I designed a relational database, inserted sample data, and wrote complex SQL qu
 ## 📂 Project Structure
 - **schema.sql** → Database & table creation scripts  
 - **data.sql** → Sample dataset (customers, products, orders)  
-- **analysis_queries.sql** → SQL queries for business insights  
-- **results/** → (Optional) Screenshots of queries & results  
-
+- **analysis_queries.sql** → SQL queries for business insights
+- 
 ---
 
 ## 🔑 Skills Demonstrated
